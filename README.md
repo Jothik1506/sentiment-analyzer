@@ -11,7 +11,6 @@ To run Run this code in Your Bash or Terminal one by one
 
 **pip install -r requirements.txt**
 
+**pip install streamlit**
 
 **streamlit run app.py**
-
-**pip install streamlit**
